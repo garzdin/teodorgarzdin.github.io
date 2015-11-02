@@ -147,6 +147,14 @@ section {
 	font-size: 3vmax;
 	color: #3F92A4;
 	font-family: 'Montserrat', sans-serif;
+	margin-left: -4px;
+}
+
+#work h3 {
+	font-size: 1vmax;
+	color: #000;
+	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 5px;
 }
 
 #work p {
